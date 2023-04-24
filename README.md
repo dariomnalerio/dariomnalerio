@@ -10,8 +10,8 @@
 
 ## GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariomnalerio&hide=html)
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariomnalerio)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariomnalerio&hide=html)]
+  <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariomnalerio)]
+ 
 </div>
